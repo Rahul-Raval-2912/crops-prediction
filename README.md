@@ -37,7 +37,7 @@ A comprehensive web application that helps farmers make informed decisions about
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd diya
+   
    ```
 
 2. **Setup Backend**
